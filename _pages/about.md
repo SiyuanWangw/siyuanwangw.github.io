@@ -12,10 +12,6 @@ I am a final-year PhD student working in the School of Data Science at Fudan Uni
 
 My primary research interests include **Natural Language Processing** and **Machine Learning**, with a focus on complex reasoning and knowledge modeling. 
 
-;Recent News
-;======
-;* **March 2022**. I will be joining [AI2 Mosaic Team](https://mosaic.allenai.org/people) as a summer research intern starting May 2023, working with [Nouha Dziri](https://webdocs.cs.ualberta.ca/~dziri/)!
-
 
 Experience
 ======
@@ -37,12 +33,18 @@ Experience
   + Research Intern. Advisor: Duyu Tang
   + Focus: Symbolic Logic-driven Logical Reasoning
 
-Honors and Awards
+Professional Service
 ======
-* Siebel Scholars. Princeton University. *Sept. 2021*
-* Sigma Xi Scientific Research Honor Society. Wellesley College. *May 2020*
-* Durant Scholars *magna cum laude*. Wellesley College. *May 2020*
+* **Co-Organizer**
+  + Program Committee Chair of CSSNLP 2021,  Organizing Committee of CSSNLP 2020
 
-Service and leadership
+* **Program Committee (Reviewer)**
+  + ACL Rolling Review 2021-2023, ACL, AAAI, IJCAI, EMNLP, NAACL, NLPCC, IEEE/ACM Trans. on ASLP(TASLP), ACM Trans. on ALLIP (TALLIP)
+
+* **Invited Talk**
+  + Jul 2023, Talk "How to Cope with the Changes Brought about by LLMs?" at CCAC 2023 Student Seminar.
+  + Oct 2021, Talk "A Brief Probe on Writing an Academic Rebuttal." at CCL 2021 Student Seminar.
+
+Awards and Honors
 ======
-* Student Representative on Board of Admission. Wellesley College. *Oct. 2019 - May 2020*
+* 
