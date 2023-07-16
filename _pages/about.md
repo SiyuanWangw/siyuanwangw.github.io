@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student working in the School of Data Science at Fudan University. I am a member of [Data Intelligence and Social Computing Lab(DISC Lab)](http://fudan-disc.com/), advised by [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). I got my M.S.E in Computer Science from Princeton University, being part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/) and advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
+I am a final-year PhD student working in the School of Data Science at Fudan University. I am a member of [Data Intelligence and Social Computing Lab (DISC Lab)](http://fudan-disc.com/), advised by [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I've also spent time with [the Intelligence and Knowledge Discovery (INK) Research Lab](https://ink-usc.github.io/)  at University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/).
 
-I am passionate about Natural Language Processing, Computational Linguistics, and everything about languages. In high school, I competed in [International Linguistics Olympiad](https://ioling.org/) representing China.
-
-Outside of research, I enjoy all kinds of sports, cooking/baking, and reading.
+My primary research interests include **Natural Language Processing** and **Machine Learning**, with a focus on complex reasoning and knowledge modeling. 
 
 A data-driven personal website
 ======
