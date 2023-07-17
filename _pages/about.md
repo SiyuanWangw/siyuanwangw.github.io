@@ -12,6 +12,13 @@ I am a final-year PhD student working in the School of Data Science at Fudan Uni
 
 My primary research interests include **Natural Language Processing** and **Machine Learning**, with a focus on complex reasoning and knowledge modeling. 
 
+Selected Publications
+======
+(Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN))
+* [Query Structure Modeling for Inductive Logical Reasoning Over Knowledge Graphs](https://aclanthology.org/2023.acl-long.259.pdf)
+  **Siyuan Wang**, Zhongyu Wei, Meng Han, Zhihao Fan, Haijun Shan, Qi Zhang, Xuanjing Huang.
+  
+
 
 Experience
 ======
@@ -44,7 +51,3 @@ Professional Service
 * **Invited Talk**
   + Jul 2023, Talk "How to Cope with the Changes Brought about by LLMs?" at CCAC 2023 Student Seminar.
   + Oct 2021, Talk "A Brief Probe on Writing an Academic Rebuttal." at CCL 2021 Student Seminar.
-
-Awards and Honors
-======
-* 
