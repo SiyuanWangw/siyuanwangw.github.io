@@ -26,6 +26,7 @@ en: &DEFAULT_EN
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
+  cv_label                   : "CV"
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
@@ -74,6 +75,7 @@ es: &DEFAULT_ES
   powered_by                 : "Powered by"
   website_label              : "Sitio web"
   email_label                : "Email"
+  cv_label                   : "CV"
   recent_posts               : "Entradas recientes"
   undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
   comment_form_info          :
@@ -250,6 +252,7 @@ it: &DEFAULT_IT
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
+  cv_label                   : "CV"
   recent_posts               : "Articoli Recenti"
   undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
   comment_form_info          :
