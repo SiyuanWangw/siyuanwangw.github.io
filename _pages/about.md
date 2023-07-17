@@ -40,8 +40,8 @@ Selected Publications
   NAACL-Findings 2022. [[data&code]](https://github.com/zhongwanjun/AR-LSAT)
 
 * [**Fine-Grained Element Identification in Complaint Text of Internet Fraud**](https://dl.acm.org/doi/abs/10.1145/3459637.3482108)<br />
-  Tong Liu*, **Siyuan Wang***, Jingchao Fu, Lei Chen, Zhongyu Wei, Yaqi Liu, Heng Ye, Liaosa Xu, Weiqiang Wang, Xuanjing Huang. <br />
-  CIKM 2021. (*Equal Contribution)
+  Tong Liu\*, **Siyuan Wang**\*, Jingchao Fu, Lei Chen, Zhongyu Wei, Yaqi Liu, Heng Ye, Liaosa Xu, Weiqiang Wang, Xuanjing Huang.(*Equal Contribution) <br />
+  CIKM 2021. 
 
 * [**TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning**](https://www.ijcai.org/proceedings/2021/0091.pdf)<br />
   Zhihao Fan, Zhongyu Wei, **Siyuan Wang**, Ruize Wang, Zejun Li, Haijun Shan, Xuanjing Huang.<br />
