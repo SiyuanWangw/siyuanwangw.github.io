@@ -15,29 +15,65 @@ My primary research interests include **Natural Language Processing** and **Mach
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN))
-* [Query Structure Modeling for Inductive Logical Reasoning Over Knowledge Graphs](https://aclanthology.org/2023.acl-long.259.pdf)
-  **Siyuan Wang**, Zhongyu Wei, Meng Han, Zhihao Fan, Haijun Shan, Qi Zhang, Xuanjing Huang.
+* [**Query Structure Modeling for Inductive Logical Reasoning Over Knowledge Graphs**](https://aclanthology.org/2023.acl-long.259.pdf)<br />
+  **Siyuan Wang**, Zhongyu Wei, Meng Han, Zhihao Fan, Haijun Shan, Qi Zhang, Xuanjing Huang.<br />
+  ACL 2023. [[code]](https://github.com/SiyuanWangw/InductiveLR)
   
+* [**Unifying Structure Reasoning and Language Pre-training for Complex Reasoning Tasks**](https://arxiv.org/abs/2301.08913)<br />
+  **Siyuan Wang**, Zhongyu Wei, Jiarong Xu, Taishan Li and Zhihao Fan.<br />
+  Preprint.
+  
+* [**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**](https://aclanthology.org/2023.acl-long.259.pdf)<br />
+  **Siyuan Wang**, Zhongyu Wei, Zhihao Fan, Qi Zhang and Xuanjing Huang.<br />
+  COLING 2022. [[code]](https://github.com/SiyuanWangw/StepwiseQA)
+  
+* [**From LSAT: The Progress and Challenges of Complex Reasoning**](https://ieeexplore.ieee.org/document/9747955)<br />
+  **Siyuan Wang**, Zhongkun Liu, Wanjun Zhong, Ming Zhou, Zhongyu Wei, Zhumin Chen, Nan Duan.<br />
+  TASLP 2022.
+  
+* [**Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**](https://aclanthology.org/2022.findings-acl.127/)<br />
+  **Siyuan Wang**, Zhongyu Wei, Zhihao Fan, Zengfeng Huang, Weijian Sun, Qi Zhang and Xuanjing Huang.<br />
+  ACL-Findings 2022. [[code]](https://github.com/SiyuanWangw/LReasoner) [[blog]](https://www.microsoft.com/en-us/research/blog/microsoft-lreasoner-leads-the-reclor-challenge-on-logical-reasoning/)
+
+* [**Analytical Reasoning of Text**](https://aclanthology.org/2022.findings-naacl.177/)<br />
+  Wanjun Zhong, **Siyuan Wang**, Duyu Tang, Zenan Xu, Daya Guo, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan.<br />
+  NAACL-Findings 2022. [[data&code]](https://github.com/zhongwanjun/AR-LSAT)
+
+* [**Fine-Grained Element Identification in Complaint Text of Internet Fraud**](https://dl.acm.org/doi/abs/10.1145/3459637.3482108)<br />
+  Tong Liu*, **Siyuan Wang***, Jingchao Fu, Lei Chen, Zhongyu Wei, Yaqi Liu, Heng Ye, Liaosa Xu, Weiqiang Wang, Xuanjing Huang. <br />
+  CIKM 2021. (*Equal Contribution)
+
+* [**TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning**](https://www.ijcai.org/proceedings/2021/0091.pdf)<br />
+  Zhihao Fan, Zhongyu Wei, **Siyuan Wang**, Ruize Wang, Zejun Li, Haijun Shan, Xuanjing Huang.<br />
+  IJCAI 2021. [[code]](https://github.com/LibertFan/TCIC)
+
+* [**PathQG: Neural Question Generation from Facts**](https://aclanthology.org/2020.emnlp-main.729/)<br />
+  **Siyuan Wang**, Zhongyu Wei, Zhihao Fan, Zengfeng Huang, Weijian Sun, Qi Zhang and Xuanjing Huang.<br />
+  EMNLP 2020. [[code]](https://github.com/SiyuanWangw/PathQG)
+
+* [**A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation**](https://ojs.aaai.org/index.php/AAAI/article/view/4700)<br />
+  **Siyuan Wang**, Zhongyu Wei, Zhihao Fan, Yang Liu and Xuanjing Huang.<br />
+  AAAI 2019. 
 
 
 Experience
 ======
 * **Fudan University**. DISC Lab. *Oct 2017 - Present*
-  + Graduate Research Assistant. Advisor: Zhongyu Wei
+  + Graduate Research Assistant. Advisor: [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)
   + Focus:
     - Knowledge Modeling for Question Generation
     - Flexible Interpretability and Generalizability of Complex Reasoning
     
 * **University of Southern California**. Ink Lab. *Jan 2023 - Jun 2023*
-  + Visiting Scholar. Advisor: Xiang Ren
+  + Visiting Scholar. Advisor: [Xiang Ren](https://shanzhenren.github.io/)
   + Focus: Primitive Logical Rule Base Construction and Inference Engine Training
 
 * **Langboat Tech**. *Feb 2021 - May 2021*
-  + Research Intern. Advisor: Ming Zhou
+  + Research Intern. Advisor: [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)
   + Focus: Neuro-symbolic Exploration for Complex Reasoning
     
 * **Microsoft Research Asia**. NLC Group. *Sep 2020 - Feb. 2021*
-  + Research Intern. Advisor: Duyu Tang
+  + Research Intern. Advisor: [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN)
   + Focus: Symbolic Logic-driven Logical Reasoning
 
 Professional Service
