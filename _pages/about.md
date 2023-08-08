@@ -23,7 +23,7 @@ Selected Publications
   **Siyuan Wang**, Zhongyu Wei, Jiarong Xu, Taishan Li and Zhihao Fan.<br />
   Preprint.
   
-* [**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**](https://aclanthology.org/2023.acl-long.259.pdf)<br />
+* [**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**](https://aclanthology.org/2022.coling-1.142.pdf)<br />
   **Siyuan Wang**, Zhongyu Wei, Zhihao Fan, Qi Zhang and Xuanjing Huang.<br />
   COLING 2022. [[code]](https://github.com/SiyuanWangw/StepwiseQA)
   
