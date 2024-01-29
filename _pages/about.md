@@ -21,7 +21,7 @@ Selected Publications
   
 * [**Unifying Structure Reasoning and Language Pre-training for Complex Reasoning Tasks**](https://arxiv.org/abs/2301.08913)<br />
   **Siyuan Wang**, Zhongyu Wei, Jiarong Xu, Taishan Li and Zhihao Fan.<br />
-  Preprint.
+  TASLP 2023.
   
 * [**Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering**](https://aclanthology.org/2022.coling-1.142.pdf)<br />
   **Siyuan Wang**, Zhongyu Wei, Zhihao Fan, Qi Zhang and Xuanjing Huang.<br />
