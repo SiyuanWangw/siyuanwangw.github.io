@@ -12,6 +12,28 @@ I am a final-year PhD student working in the School of Data Science at Fudan Uni
 
 My primary research interests include **Natural Language Processing** and **Machine Learning**, with a focus on complex reasoning and knowledge modeling. 
 
+### Preprint
+======
+* [**Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs**](https://arxiv.org/pdf/2402.11442.pdf)<br />
+  **Siyuan Wang**, Zhongyu Wei, Yejin Choi, Xiang Ren.<br />
+  Arxiv. [[code]](https://github.com/SiyuanWangw/ULogic)
+
+* [**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**](https://arxiv.org/pdf/2402.11443.pdf)<br />
+  **Siyuan Wang**, Zhuohan Long, Zhihao Fan, Zhongyu Wei, Xuanjing Huang.<br />
+  Arxiv. [[code]](https://github.com/NanshineLoong/Self-Evolving-Benchmark)
+
+* [**ALaRM: Align Language Models via Hierarchical Rewards Modeling**](https://arxiv.org/pdf/2403.06754.pdf)<br />
+  Yuhang Lai, **Siyuan Wang**, Shujun Liu, Xuanjing Huang, Zhongyu Wei.<br />
+  Arxiv. [[code]](https://github.com/halfrot/ALaRM)
+
+* [**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**](https://arxiv.org/abs/2402.09742)<br />
+  Zhihao Fan, Jialong Tang, Wei Chen, **Siyuan Wang**, Zhongyu Wei, Jun Xie, Fei Huang, Jingren Zhou.<br />
+  Arxiv. [[code]](https://github.com/LibertFan/AI_Hospital)
+
+* [**In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search**](https://arxiv.org/pdf/2311.07237.pdf)<br />
+  Huihan Li, Yuting Ning, Zeyi Liao, **Siyuan Wang**, Xiang Lorraine Li, Ximing Lu, Wenting Zhao, Faeze Brahman, Yejin Choi, Xiang Ren.<br />
+  Arxiv. [[code]](https://github.com/INK-USC/LINK/)
+
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN))
