@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyuan Wang (王思远)"
 title_separator          : "-"
 name                     : &name "Siyuan Wang"
-description              : &description "Fudan DISC Lab Ph.D." 
+description              : &description "Visiting Researcher at USC" 
 url                      : https://siyuanwangw.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SiyuanWangw/siyuanwangw.github.io"
