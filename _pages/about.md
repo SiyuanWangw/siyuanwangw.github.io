@@ -12,7 +12,7 @@ I am a final-year PhD student working in the School of Data Science at Fudan Uni
 
 My primary research interests include **Natural Language Processing** and **Machine Learning**, with a focus on complex reasoning and knowledge modeling. 
 
-### Preprint
+Preprint
 ======
 * [**Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs**](https://arxiv.org/pdf/2402.11442.pdf)<br />
   **Siyuan Wang**, Zhongyu Wei, Yejin Choi, Xiang Ren.<br />
