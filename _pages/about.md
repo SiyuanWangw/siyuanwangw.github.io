@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student working in the School of Data Science at Fudan University. I am a member of [Data Intelligence and Social Computing Lab (DISC Lab)](http://fudan-disc.com/), advised by [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I've also spent time with [the Intelligence and Knowledge Discovery (INK) Research Lab](https://ink-usc.github.io/)  at University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/).
+I am currently a visiting researcher working in the [INK Lab](https://inklab.usc.edu) at University of Southern California, and will join the Viterbi School of Engineering – Computer Science Department as a Postdoctoral Research Associate in Fall 2024, advised by [Xiang Ren](https://shanzhenren.github.io/). I received my Ph.D. from Fudan University in October 2023, under the supervision of [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I've also spent time with [the Intelligence and Knowledge Discovery (INK) Research Lab](https://ink-usc.github.io/) at University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/).
 
-My primary research interests include **Natural Language Processing** and **Machine Learning**, with a focus on complex reasoning and knowledge modeling. 
+My primary research interests include **Natural Language Processing** and **Machine Reasoning**, with a current focus on testing and improving LLMs Reasoning and Neuro-symbolic Integration. 
 
 Preprint
 ======
@@ -85,10 +85,11 @@ Experience
   + Focus:
     - Knowledge Modeling for Question Generation
     - Flexible Interpretability and Generalizability of Complex Reasoning
+    - LLMs Evaluation \& Alignment
     
-* **University of Southern California**. Ink Lab. *Jan 2023 - Jun 2023*
-  + Visiting Scholar. Advisor: [Xiang Ren](https://shanzhenren.github.io/)
-  + Focus: Primitive Logical Rule Base Construction and Inference Engine Training
+* **University of Southern California**. Ink Lab. *Jan 2023 - Present*
+  + Visiting Researcher. Advisor: [Xiang Ren](https://shanzhenren.github.io/)
+  + Focus: LLMs Reasoning with Logical Rules
 
 * **Langboat Tech**. *Feb 2021 - May 2021*
   + Research Intern. Advisor: [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)
