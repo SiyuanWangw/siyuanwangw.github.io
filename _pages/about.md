@@ -14,17 +14,9 @@ My primary research interests include **Natural Language Processing** and **Mach
 
 Preprint
 ======
-* [**Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs**](https://arxiv.org/pdf/2402.11442.pdf)<br />
-  **Siyuan Wang**, Zhongyu Wei, Yejin Choi, Xiang Ren.<br />
-  Arxiv. [[code]](https://github.com/SiyuanWangw/ULogic)
-
 * [**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**](https://arxiv.org/pdf/2402.11443.pdf)<br />
   **Siyuan Wang**, Zhuohan Long, Zhihao Fan, Zhongyu Wei, Xuanjing Huang.<br />
   Arxiv. [[code]](https://github.com/NanshineLoong/Self-Evolving-Benchmark)
-
-* [**ALaRM: Align Language Models via Hierarchical Rewards Modeling**](https://arxiv.org/pdf/2403.06754.pdf)<br />
-  Yuhang Lai, **Siyuan Wang**, Shujun Liu, Xuanjing Huang, Zhongyu Wei.<br />
-  Arxiv. [[code]](https://github.com/halfrot/ALaRM)
 
 * [**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**](https://arxiv.org/abs/2402.09742)<br />
   Zhihao Fan, Jialong Tang, Wei Chen, **Siyuan Wang**, Zhongyu Wei, Jun Xie, Fei Huang, Jingren Zhou.<br />
@@ -37,6 +29,18 @@ Preprint
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN))
+* [**Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs**](https://arxiv.org/pdf/2402.11442.pdf)<br />
+  **Siyuan Wang**, Zhongyu Wei, Yejin Choi, Xiang Ren.<br />
+  ACL 2024. [[code]](https://github.com/SiyuanWangw/ULogic)
+
+* [**ALaRM: Align Language Models via Hierarchical Rewards Modeling**](https://arxiv.org/pdf/2403.06754.pdf)<br />
+  Yuhang Lai, **Siyuan Wang**, Shujun Liu, Xuanjing Huang, Zhongyu Wei.<br />
+  ACL-Findings 2024. [[code]](https://github.com/halfrot/ALaRM)
+
+* [**Multi-Objective Forward Reasoning and Multi-Reward Backward Refinement for Product Review Summarization**](https://aclanthology.org/2024.lrec-main.1043.pdf)<br />
+  Libo Sun, **Siyuan Wang**, Meng Han, Ruofei Lai, Xinyu Zhang, Xuanjing Huang, Zhongyu Wei.<br />
+  COLING 2024. [[data]](https://github.com/sunlibo2390/ Product-CSum-Cross-Dataset)
+
 * [**Query Structure Modeling for Inductive Logical Reasoning Over Knowledge Graphs**](https://aclanthology.org/2023.acl-long.259.pdf)<br />
   **Siyuan Wang**, Zhongyu Wei, Meng Han, Zhihao Fan, Haijun Shan, Qi Zhang, Xuanjing Huang.<br />
   ACL 2023. [[code]](https://github.com/SiyuanWangw/InductiveLR)
