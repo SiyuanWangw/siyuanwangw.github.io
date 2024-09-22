@@ -22,13 +22,17 @@ Preprint
   Zhihao Fan, Jialong Tang, Wei Chen, **Siyuan Wang**, Zhongyu Wei, Jun Xie, Fei Huang, Jingren Zhou.<br />
   Arxiv. [[code]](https://github.com/LibertFan/AI_Hospital)
 
-* [**In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search**](https://arxiv.org/pdf/2311.07237.pdf)<br />
-  Huihan Li, Yuting Ning, Zeyi Liao, **Siyuan Wang**, Xiang Lorraine Li, Ximing Lu, Wenting Zhao, Faeze Brahman, Yejin Choi, Xiang Ren.<br />
-  Arxiv. [[code]](https://github.com/INK-USC/LINK/)
-
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN))
+* [**Symbolic Working Memory Enhances Language Models for Complex Rule Application**](https://arxiv.org/pdf/2408.13654)<br />
+  **Siyuan Wang**, Zhongyu Wei, Yejin Choi, Xiang Ren.<br />
+  EMNLP 2024. [[code]](https://github.com/SiyuanWangw/RuleApplication)
+
+* [**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**](https://arxiv.org/pdf/2406.14859)<br />
+  **Siyuan Wang**\*, Zhuohan Long\*, Zhihao Fan, Zhongyu Wei.(*Equal Contribution)<br />
+  EMNLP 2024. [Survey]
+
 * [**Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs**](https://arxiv.org/pdf/2402.11442.pdf)<br />
   **Siyuan Wang**, Zhongyu Wei, Yejin Choi, Xiang Ren.<br />
   ACL 2024. [[code]](https://github.com/SiyuanWangw/ULogic)
