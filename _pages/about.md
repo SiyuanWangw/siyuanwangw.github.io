@@ -15,8 +15,12 @@ My primary research interests include **Natural Language Processing** and **Mach
 Preprint
 ======
 * [**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**](https://arxiv.org/pdf/2402.11443.pdf)<br />
-  **Siyuan Wang**, Zhuohan Long, Zhihao Fan, Zhongyu Wei, Xuanjing Huang.<br />
+  **Siyuan Wang**\*, Zhuohan Long\*, Zhihao Fan, Zhongyu Wei, Xuanjing Huang.<br />
   Arxiv. [[code]](https://github.com/NanshineLoong/Self-Evolving-Benchmark)
+
+* [**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**](https://arxiv.org/pdf/2407.09893)<br />
+  Shengbin Yue, **Siyuan Wang**, Wei Chen, Xuanjing Huang, Zhongyu Wei.<br />
+  Arxiv. [[code]](https://github.com/yueshengbin/SMART)
 
 * [**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**](https://arxiv.org/abs/2402.09742)<br />
   Zhihao Fan, Jialong Tang, Wei Chen, **Siyuan Wang**, Zhongyu Wei, Jun Xie, Fei Huang, Jingren Zhou.<br />
