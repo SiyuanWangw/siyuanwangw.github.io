@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Associate working in the [INK Lab](https://inklab.usc.edu) at University of Southern California (USC), working with [Xiang Ren](https://shanzhenren.github.io/). I received my Ph.D. from Fudan University in October 2023, under the supervision of [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I've also spent time with the INK Lab at University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/).
+I am currently a Postdoctoral Research Associate in the [INK Lab](https://inklab.usc.edu) at University of Southern California (USC), working with [Xiang Ren](https://shanzhenren.github.io/). I received my Ph.D. from Fudan University in October 2023, under the supervision of [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I've also spent time with the INK Lab at University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/).
 
 My primary research interests include **Natural Language Processing** and **Machine Reasoning**, with a current focus on Robustness of LLMs Reasoning, Safety and Alignment. 
 
