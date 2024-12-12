@@ -12,23 +12,22 @@ I am currently a Postdoctoral Research Associate in the [INK Lab](https://inklab
 
 My primary research interests include **Natural Language Processing** and **Machine Reasoning**, with a current focus on Robustness of LLMs Reasoning, Safety and Alignment. 
 
-Preprint
-======
-* [**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**](https://arxiv.org/pdf/2402.11443.pdf)<br />
-  **Siyuan Wang**\*, Zhuohan Long\*, Zhihao Fan, Zhongyu Wei, Xuanjing Huang.<br />
-  Arxiv. [[code]](https://github.com/NanshineLoong/Self-Evolving-Benchmark)
-
-* [**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**](https://arxiv.org/pdf/2407.09893)<br />
-  Shengbin Yue, **Siyuan Wang**, Wei Chen, Xuanjing Huang, Zhongyu Wei.<br />
-  Arxiv. [[code]](https://github.com/yueshengbin/SMART)
-
-* [**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**](https://arxiv.org/abs/2402.09742)<br />
-  Zhihao Fan, Jialong Tang, Wei Chen, **Siyuan Wang**, Zhongyu Wei, Jun Xie, Fei Huang, Jingren Zhou.<br />
-  Arxiv. [[code]](https://github.com/LibertFan/AI_Hospital)
 
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN))
+* [**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**](https://arxiv.org/pdf/2407.09893)<br />
+  Shengbin Yue, **Siyuan Wang**, Wei Chen, Xuanjing Huang, Zhongyu Wei.<br />
+  AAAI 2025. [[code]](https://github.com/yueshengbin/SMART)
+
+* [**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**](https://arxiv.org/pdf/2402.11443.pdf)<br />
+  **Siyuan Wang**\*, Zhuohan Long\*, Zhihao Fan, Zhongyu Wei, Xuanjing Huang.<br />
+  COLING 2025. [[code]](https://github.com/NanshineLoong/Self-Evolving-Benchmark)
+
+* [**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**](https://arxiv.org/abs/2402.09742)<br />
+  Zhihao Fan, Jialong Tang, Wei Chen, **Siyuan Wang**, Zhongyu Wei, Jun Xie, Fei Huang, Jingren Zhou.<br />
+  COLING 2025. [[code]](https://github.com/LibertFan/AI_Hospital)
+
 * [**Symbolic Working Memory Enhances Language Models for Complex Rule Application**](https://arxiv.org/pdf/2408.13654)<br />
   **Siyuan Wang**, Zhongyu Wei, Yejin Choi, Xiang Ren.<br />
   EMNLP 2024. [[code]](https://github.com/SiyuanWangw/RuleApplication)
