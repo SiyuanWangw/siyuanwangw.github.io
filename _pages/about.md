@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Postdoctoral Research Associate in the [INK Lab](https://inklab.usc.edu) at University of Southern California (USC), working with [Xiang Ren](https://shanzhenren.github.io/). I received my Ph.D. from Fudan University in October 2023, under the supervision of [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I've also spent time with the INK Lab at University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/).
 
-My primary research centers on **Towards Trustworthy and Efficient Reasoning of Large Models**, with recent work including:   
+My primary research centers on **Trustworthy and Efficient Reasoning of Large Models**, with recent work including:   
 - Towards Trustworthy Reasoning through Enhancing Faithfulness ([`Rule Discovery`](https://aclanthology.org/2024.acl-long.406.pdf) & [`Application`](https://aclanthology.org/2024.emnlp-main.974/)), Robustness ([`HardcoreLogic`](https://arxiv.org/abs/2510.12563),[`BenchSelfEvolving`](https://arxiv.org/pdf/2402.11443.pdf)) and Compliance ([`ALaRM`](https://arxiv.org/pdf/2403.06754.pdf),[`JailbreakEnsemble`](https://aclanthology.org/2025.findings-emnlp.1160.pdf)).
 - Optimizing Efficiency in Reasoning Conciseness ([`Informativeness Search`](https://aclanthology.org/2025.emnlp-main.1285/)), Training Speed ([`LATR`](https://arxiv.org/pdf/2510.24302)), and Multimodal Reasoning ([`ILVR`](https://arxiv.org/abs/2512.05665), [`Visual Region`](https://aclanthology.org/2025.acl-long.1484/)).
 
@@ -127,14 +127,14 @@ Selected Publications
 Experience
 ======
 * **Fudan University**. DISC Lab. *Oct 2017 - March 2024*
-  + Graduate Research Assistant \& Research Assistant. Advisor: [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)
+  + Graduate Research Assistant & Research Assistant. Advisor: [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)
   + Focus:
     - Knowledge Modeling for Question Generation
     - Interpretability and Generalizability of Reasoning
-    - LLMs Evaluation \& Alignment
+    - LLMs Evaluation & Alignment
     
 * **University of Southern California**. Ink Lab. *Jan 2023 - Present*
-  + Visiting Researcher \& Postdoctoral Researcher. Advisor: [Xiang Ren](https://shanzhenren.github.io/)
+  + Visiting Researcher & Postdoctoral Researcher. Advisor: [Xiang Ren](https://shanzhenren.github.io/)
   + Focus: LLM Reasoning
 
 * **Langboat Tech**. *Feb 2021 - May 2021*
