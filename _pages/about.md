@@ -12,7 +12,7 @@ I am currently a Postdoctoral Research Associate in the [INK Lab](https://inklab
 
 My primary research centers on **Trustworthy and Efficient Reasoning of Large Models**, with recent work including:   
 - Towards Trustworthy Reasoning through Enhancing Faithfulness ([`Rule Discovery`](https://aclanthology.org/2024.acl-long.406.pdf) & [`Application`](https://aclanthology.org/2024.emnlp-main.974/)), Robustness ([`HardcoreLogic`](https://arxiv.org/abs/2510.12563),[`BenchSelfEvolving`](https://arxiv.org/pdf/2402.11443.pdf)) and Compliance ([`ALaRM`](https://arxiv.org/pdf/2403.06754.pdf),[`JailbreakEnsemble`](https://aclanthology.org/2025.findings-emnlp.1160.pdf)).
-- Optimizing Efficiency in Reasoning Conciseness ([`Informativeness Search`](https://aclanthology.org/2025.emnlp-main.1285/)), Training Speed ([`LATR`](https://arxiv.org/pdf/2510.24302)), and Multimodal Reasoning ([`ILVR`](https://arxiv.org/abs/2512.05665), [`Visual Region`](https://aclanthology.org/2025.acl-long.1484/)).
+- Optimizing Efficiency in Reasoning Conciseness ([`Informativeness Search`](https://aclanthology.org/2025.emnlp-main.1285/), [`Segment Selective Learning`](https://openreview.net/forum?id=C1UD4FLFPL)), Exploration Diversity ([`LATR`](https://arxiv.org/pdf/2510.24302)), and Multimodal Reasoning ([`ILVR`](https://arxiv.org/abs/2512.05665), [`Visual Region`](https://aclanthology.org/2025.acl-long.1484/)).
 
 
 # Preprints
@@ -20,21 +20,34 @@ My primary research centers on **Trustworthy and Efficient Reasoning of Large Mo
 1. [**Interleaved Latent Visual Reasoning with Selective Perceptual Modeling.**](https://arxiv.org/abs/2512.05665) [[code]](https://github.com/XD111ds/ILVR) <br />
   Shuai Dong, **Siyuan Wang**\#, Xingyu Liu, Zhongyu Wei\#.<br />
 
-2. [**Lookahead Tree-Based Rollouts for Enhanced Trajectory-Level Exploration in Reinforcement Learning with Verifiable Rewards.**](https://arxiv.org/pdf/2510.24302) [[code]](https://github.com/starreeze/latr) <br />
-  Shangyu Xing, **Siyuan Wang**\#, Chenyuan Yang, Xinyu Dai, Xiang Ren\#.<br />
+2. [**MoIIE: Mixture of Intra- and Inter- Modality Experts for Large Vision Language Models.**](https://arxiv.org/abs/2508.09779) [[code]](https://github.com/AlenjandroWang/MoIIE) <br />
+  Dianyi Wang, **Siyuan Wang**\#, Zejun Li, Yikun Wang, Yitong Li, Duyu Tang, Xiaoyu Shen, Xuanjing Huang, Zhongyu Wei\#.<br />
 
-3. [**HardcoreLogic: Challenging Large Reasoning Models with Long-tail Logic Puzzle Games.**](https://arxiv.org/abs/2510.12563) [[code]](https://github.com/ljcleo/hardcore-logic) <br />
-  Jingcong Liang\*, Shijun Wan\*, Xuehai Wu\*, Yitong Li, Qianglong Chen, Duyu Tang, **Siyuan Wang**\#, Zhongyu Wei\#.<br />
-
-4. [**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models.**](https://arxiv.org/pdf/2505.16056) [[code]](https://github.com/ljcleo/moe-lrc) <br />
-  Jingcong Liang, **Siyuan Wang**\#, Miren Tian, Yitong Li, Duyu Tang, Zhongyu Wei\#.<br />
-
-5. [**OViP: Online Vision-Language Preference Learning.**](https://arxiv.org/pdf/2505.15963) [[code]](https://github.com/lsjlsj35/Online-Vision-Language-Preference-Learning-for-VLM-Hallucination) <br />
+3. [**OViP: Online Vision-Language Preference Learning for VLM Hallucination.**](https://arxiv.org/abs/2505.15963) [[code]](https://github.com/lsjlsj35/Online-Vision-Language-Preference-Learning-for-VLM-Hallucination) <br />
   Shujun Liu, **Siyuan Wang**\#, Zejun Li, Jianxiang Wang, Zeng Cheng, Zhongyu Wei\#.<br />
+
+4. [**SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation..**](https://arxiv.org/pdf/2601.06806)  <br />
+  Jiwen Zhang, Zejun Li, **Siyuan Wang**, Xiangyu Shi, Zhongyu Wei, Qi Wu.<br />
 
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN)) 
+* [**Segment-Level Attribution for Selective Learning of Long Reasoning Traces.**](https://openreview.net/forum?id=C1UD4FLFPL)<br />
+  Siyuan Wang, Yanchen Liu, Xiang Ren.<br />
+  ICLR 2026. [[code]](https://github.com/SiyuanWangw/SegmentSelectiveSFT)
+  
+* [**Lookahead Tree-Based Rollouts for Enhanced Trajectory-Level Exploration in Reinforcement Learning with Verifiable Rewards.**](https://arxiv.org/pdf/2510.24302)<br />
+  Shangyu Xing, **Siyuan Wang**\#, Chenyuan Yang, Xinyu Dai, Xiang Ren\#.<br />
+  ICLR 2026. [[code]](https://github.com/starreeze/latr)
+
+* [**HardcoreLogic: Challenging Large Reasoning Models with Long-tail Logic Puzzle Games.**](https://arxiv.org/abs/2510.12563)<br />
+  Jingcong Liang\*, Shijun Wan\*, Xuehai Wu\*, Yitong Li, Qianglong Chen, Duyu Tang, **Siyuan Wang**\#, Zhongyu Wei\#.<br />
+  ICLR 2026. [[code]](https://github.com/ljcleo/hardcore-logic)
+
+* [**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models.**](https://arxiv.org/pdf/2505.16056)<br />
+  Jingcong Liang, **Siyuan Wang**\#, Miren Tian, Yitong Li, Duyu Tang, Zhongyu Wei\#.<br />
+  ICLR 2026. [[code]](https://github.com/ljcleo/moe-lrc) 
+
 * [**Stepwise Informativeness Search for Improving LLM Reasoning.**](https://aclanthology.org/2025.emnlp-main.1285/)<br />
   **Siyuan Wang**\*, Enda Zhao\*, Xiang Ren.<br />
   EMNLP 2025. [[code]](https://github.com/SiyuanWangw/Informativeness-Search)
@@ -45,7 +58,7 @@ Selected Publications
 
 * [**Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference.**](https://aclanthology.org/2025.acl-long.1484/)<br />
   **Siyuan Wang**\*, Dianyi Wang\*, Chengxing Zhou\*, Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei.<br />
-  ACL 2025.
+  ACL 2025. [[code]](https://github.com/SiyuanWangw/Visual-Region)
   
 * [**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**](https://arxiv.org/pdf/2407.09893)<br />
   Shengbin Yue, **Siyuan Wang**, Wei Chen, Xuanjing Huang, Zhongyu Wei.<br />
