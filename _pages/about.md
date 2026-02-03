@@ -32,8 +32,8 @@ My primary research centers on **Trustworthy and Efficient Reasoning of Large Mo
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN)) 
-* [**Segment-Level Attribution for Selective Learning of Long Reasoning Traces.**](https://openreview.net/forum?id=C1UD4FLFPL)<br />
-  Siyuan Wang, Yanchen Liu, Xiang Ren.<br />
+* [**Segment-Level Attribution for Selective Learning of Long Reasoning Traces.**](https://arxiv.org/abs/2602.00425)<br />
+  **Siyuan Wang**, Yanchen Liu, Xiang Ren.<br />
   ICLR 2026. [[code]](https://github.com/SiyuanWangw/SegmentSelectiveSFT)
   
 * [**Lookahead Tree-Based Rollouts for Enhanced Trajectory-Level Exploration in Reinforcement Learning with Verifiable Rewards.**](https://arxiv.org/pdf/2510.24302)<br />
