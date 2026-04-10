@@ -8,17 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Associate in the [INK Lab](https://inklab.usc.edu) at University of Southern California (USC), working with [Xiang Ren](https://shanzhenren.github.io/). I received my Ph.D. from Fudan University in October 2023, under the supervision of [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I've also spent time with the INK Lab at University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/).
+I am currently a Postdoctoral Fellow in the Department of Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), working with [Weiyang Liu](https://wyliu.com). Previously, I was a Postdoctoral Research Associate in the [INK Lab](https://inklab.usc.edu) at the University of Southern California (USC), working with [Xiang Ren](https://shanzhenren.github.io/). I received my Ph.D. from Fudan University in October 2023 under the supervision of [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/), and before that, my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I also spent time with the INK Lab at the University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/).
 
 My primary research centers on **Trustworthy and Efficient Reasoning of Large Models**, with recent work including:   
 - Towards Trustworthy Reasoning through Enhancing Faithfulness ([`Rule Discovery`](https://aclanthology.org/2024.acl-long.406.pdf) & [`Application`](https://aclanthology.org/2024.emnlp-main.974/)), Robustness ([`HardcoreLogic`](https://arxiv.org/abs/2510.12563),[`BenchSelfEvolving`](https://arxiv.org/pdf/2402.11443.pdf)) and Compliance ([`ALaRM`](https://arxiv.org/pdf/2403.06754.pdf),[`JailbreakEnsemble`](https://aclanthology.org/2025.findings-emnlp.1160.pdf)).
 - Optimizing Efficiency in Reasoning Conciseness ([`Informativeness Search`](https://aclanthology.org/2025.emnlp-main.1285/), [`Segment Selective Learning`](https://openreview.net/forum?id=C1UD4FLFPL)), Exploration Diversity ([`LATR`](https://arxiv.org/pdf/2510.24302)), and Multimodal Reasoning ([`ILVR`](https://arxiv.org/abs/2512.05665), [`Visual Region`](https://aclanthology.org/2025.acl-long.1484/)).
 
 
-# Preprints
+# News 📢
+
+- 6 papers accepted to [ACL 2026](https://mp.weixin.qq.com/s/7mxh4QJPzS89E2LQtqpCEA) (5 Main, 1 Findings).     
+- Joined CUHK as a Postdoctoral Fellow 🎉🎉.     
+- 5 papers accepted to ICLR 2026.
+- Our tutorial on [Rule Learning](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-list/#tq08) was presented at AAAI 2026. [[pdf]](https://github.com/golsun/rule_learning/blob/main/AAAI%20Rule%20Learning%20Tutorial.pdf)
+
+# Preprints ✨
 (*Equal Contribution; \#Corresponding Author) 
-1. [**Interleaved Latent Visual Reasoning with Selective Perceptual Modeling.**](https://arxiv.org/abs/2512.05665) [[code]](https://github.com/XD111ds/ILVR) <br />
-  Shuai Dong, **Siyuan Wang**\#, Xingyu Liu, Zhongyu Wei\#.<br />
+1. [**UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing.**](https://arxiv.org/pdf/2602.02437) [[code]](https://github.com/AlenjandroWang/UniReason) <br />
+  Dianyi Wang, Chaofan Ma, Feng Han, Size Wu, Wei Song, Yibin Wang, Zhixiong Zhang, Tianhang Wang, **Siyuan Wang**\#, Zhongyu Wei\#, Jiaqi Wang\#.<br />
 
 2. [**MoIIE: Mixture of Intra- and Inter- Modality Experts for Large Vision Language Models.**](https://arxiv.org/abs/2508.09779) [[code]](https://github.com/AlenjandroWang/MoIIE) <br />
   Dianyi Wang, **Siyuan Wang**\#, Zejun Li, Yikun Wang, Yitong Li, Duyu Tang, Xiaoyu Shen, Xuanjing Huang, Zhongyu Wei\#.<br />
@@ -26,12 +33,24 @@ My primary research centers on **Trustworthy and Efficient Reasoning of Large Mo
 3. [**OViP: Online Vision-Language Preference Learning for VLM Hallucination.**](https://arxiv.org/abs/2505.15963) [[code]](https://github.com/lsjlsj35/Online-Vision-Language-Preference-Learning-for-VLM-Hallucination) <br />
   Shujun Liu, **Siyuan Wang**\#, Zejun Li, Jianxiang Wang, Zeng Cheng, Zhongyu Wei\#.<br />
 
-4. [**SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation..**](https://arxiv.org/pdf/2601.06806)  <br />
+4. [**SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation.**](https://arxiv.org/pdf/2601.06806)  <br />
   Jiwen Zhang, Zejun Li, **Siyuan Wang**, Xiangyu Shi, Zhongyu Wei, Qi Wu.<br />
 
-Selected Publications
+5. [**SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation.**](https://arxiv.org/pdf/2603.26837)  <br />
+  Jiwen Zhang, Xiangyu Shi, **Siyuan Wang**, Zerui Li, Zhongyu Wei, Qi Wu.<br />
+
+
+Selected Publications 📚
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN)) 
+* [**Interleaved Latent Visual Reasoning with Selective Perceptual Modeling.**](https://arxiv.org/abs/2512.05665) <br />
+  Shuai Dong, **Siyuan Wang**\#, Xingyu Liu, Chenglin Li, Haowen Hou, Zhongyu Wei\#.<br />
+  ACL-Main 2026. [[code]](https://github.com/XD111ds/ILVR)
+
+* [**MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution.**](https://arxiv.org/pdf/2601.19199) <br />
+  Libo Sun, Jiwen Zhang, **Siyuan Wang**, Zhongyu Wei\#.<br />
+  ACL-Main 2026.  
+
 * [**Segment-Level Attribution for Selective Learning of Long Reasoning Traces.**](https://arxiv.org/abs/2602.00425)<br />
   **Siyuan Wang**, Yanchen Liu, Xiang Ren.<br />
   ICLR 2026. [[code]](https://github.com/SiyuanWangw/SegmentSelectiveSFT)
@@ -137,7 +156,7 @@ Selected Publications
 -->
 
 
-Experience
+Experience 🎓
 ======
 * **Fudan University**. DISC Lab. *Oct 2017 - March 2024*
   + Graduate Research Assistant & Research Assistant. Advisor: [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)
@@ -158,7 +177,7 @@ Experience
   + Research Intern. Advisor: [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN)
   + Focus: Symbolic Logic-driven Logical Reasoning
 
-Professional Service
+Professional Service 🤝
 ======
 * **Co-Organizer**
   + Program Committee Chair of CSSNLP 2021,  Organizing Committee of CSSNLP 2020
